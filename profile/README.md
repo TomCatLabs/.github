@@ -17,3 +17,9 @@ Additional digital tools focused on data transparency and community access infra
 - Public utility
 - Transparency
 - Research-driven development
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TomcatLabs/.github/main/profile/TomcatLabs_vector.svg" width="140">
+</p>
